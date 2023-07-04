@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: local("BebasNeue"), url(./fonts/BebasNeue-Regular.ttf) format('truetype');
+    font-family: "Roboto Condensed";
+    src: local("BebasNeue"), url(./fonts/RobotoCondensed-Regular.ttf) format('truetype');
+  } 
+  
+  *{
+    font-family: "BebasNeue";
+    letter-spacing: 0.8px;
+  }

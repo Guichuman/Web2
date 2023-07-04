@@ -1,0 +1,32 @@
+.btnDelete{
+    padding: 10px 15px;
+    background-color: #F2201D;
+    color: black;
+    border-radius: 25px;
+    font-size: 18px;
+    transition: 0.2s ease-in;
+    border: none;
+}
+
+.btnDelete:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 1px black;
+}
+
+.containerRowBtn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btnGreen{
+    background-color: #37c040;
+    transition: 0.2s ease-in;
+}
+
+.btnGreen:hover,
+.btnDelete:hover{
+    box-shadow: 5px 5px 10px black ;
+    cursor: pointer;
+}

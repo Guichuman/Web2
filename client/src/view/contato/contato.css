@@ -1,0 +1,45 @@
+.containerContato{
+    background-color: #1B2538;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.h1Contato{
+    color: rgb(236, 232, 232);
+    font-size: 50px;
+    padding: 2% 5%;
+    margin-top: 7%;
+}
+
+.textContato{
+    width: 40%;
+    height: 12%;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.inputContato{
+    width: 40%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.btnContato{
+    font-size: 15px;
+  padding: 8px 24px;
+  border-radius: 25px;
+  border: none;
+  margin-top: 3%;
+  background-color: #40da4a;
+  transition: 0.2s ease-in;
+
+}
+
+.btnContato:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 10px black ;
+}

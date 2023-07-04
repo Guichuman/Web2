@@ -1,0 +1,36 @@
+.containerModal{
+    background-color: aliceblue;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 25%;
+    height: 25%;
+}
+
+.modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.containerBtnModal{
+    display: flex;
+    flex-direction: row;
+    padding: 35px;
+  
+}
+
+.btnModal{
+    padding: 8px 20px;
+    border-radius: 4px;
+    transition: 0.2s ease-in;
+}
+
+.btnModal:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 3px black;
+}

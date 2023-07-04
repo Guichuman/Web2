@@ -1,0 +1,17 @@
+.containerFiltros{
+    margin-bottom: 30px;
+}
+
+.btnCadastroVendas{
+    text-decoration: none;
+    padding: 7px 10px;
+    background-color: #40da4a;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    transition: 2ms ease-out;
+}
+
+.btnCadastroVendas:hover{
+    box-shadow: 5px 5px 10px black ;
+}

@@ -1,0 +1,45 @@
+.containerAbout{
+    background-color: #1B2538;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
+
+.conteudoAbout{
+    padding: 0 5%;
+    height: 100vh;
+}
+
+section{
+    display: flex;
+    scroll-snap-align: start;
+}
+
+.liAbout{
+    color: aliceblue;
+    padding: 5px;
+    font-size: 25px;
+}
+
+.textoAbout{
+    color: rgb(236, 232, 232);
+    font-size: 26px;
+    font-family: "Roboto Condensed";
+}
+
+section{
+    display: block;
+}
+
+.h2Desenvolvedor{
+    color: rgb(236, 232, 232);
+    font-size: 32px;
+}
+
+.containerAboutDescricao{
+    max-width: 100%;
+    margin-right: 20%;
+}
