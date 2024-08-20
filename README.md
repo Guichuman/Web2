@@ -21,7 +21,7 @@ Liste as tecnologias e frameworks usados no projeto:
 - [Sequelize]([https://link_para_tecnologia](https://sequelize.org/))
 - [React]([https://link_para_tecnologia](https://react.dev/))
 - [MySQL]([https://link_para_tecnologia](https://www.mysql.com/))
-- [Nodejs]([[https://link_para_tecnologia](https://www.mysql.com/](https://nodejs.org/en))
+- [Nodejs]([(https://nodejs.org/en))
 
 ## ✨ Funcionalidades
 
